@@ -1,0 +1,36 @@
+#include <stdio.h>
+int main() {
+
+      int age = 25;
+      printf("C programming");
+
+    return 0;
+}
+
+
+#include <stdio.h>
+int main(){
+
+      int age = 25;
+      printf("Age %d, age");
+
+      return 0;
+}
+
+
+
+#include <stdio.h>
+int main() (
+
+            int age = 25;
+            printf("age %d", age);
+
+            int age = 33;
+            printf("new age: %d", age);
+
+            return 0;
+}
+
+
+
+
