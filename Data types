@@ -1,0 +1,42 @@
+#include <stdio.h>
+int main();
+{
+      int age = 10;
+      printf("%d", age);
+
+    return 0;
+}
+
+#include <Stdio.h>
+int main(){
+
+  int age = 10;
+  printf("age = %d",number);
+
+  return 0;
+}
+
+
+
+#include <stdio.h>
+  int main() {
+
+  double number = 
+ ;
+  printf("%lf", number);
+  return 0;
+}
+
+
+#include <stdio.h>
+  int main();{
+
+  float number = 10.9b
+
+  printf("%f",number);
+  return 0;
+}
+  
+
+
+             ")
